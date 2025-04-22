@@ -50,6 +50,29 @@ Define employee_id as an integer, which will be a foreign key referencing employ
 ## Task 5 : Create a table named managers with following fields:
 ![5](https://github.com/user-attachments/assets/a3bcd30e-7145-42fa-b924-cdf41a27760f)
 
+### Table Structures
+
+## Task 1: Employee Table Structure
+![6](https://github.com/user-attachments/assets/66300435-af0c-410f-8ac3-6ff08d5bc625)
+
+## Task 2: Departments Table Structure
+![7](https://github.com/user-attachments/assets/d5903b97-1499-47ae-9098-f69c1fceade8)
+
+## Task 3: Employee Departments Table Structure
+![8](https://github.com/user-attachments/assets/f9389d57-991d-44f9-a016-37fb29dac0fc)
+
+## Task 4: Employee Projects Table Structure
+![9](https://github.com/user-attachments/assets/cc3c67d9-4a5f-4fd6-afa3-aeccf5246734)
+
+## Task 5: Employee Managers Table Structure
+![10](https://github.com/user-attachments/assets/6170487e-4b86-4fac-ae74-802235f37403)
+
+### Entity-Relational Diagram
+
+## Attached image of the diagram below
+![last](https://github.com/user-attachments/assets/39062092-1041-4f13-b2cc-1658a9d0c4c0)
+
+
 
 
 
